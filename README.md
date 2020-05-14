@@ -12,6 +12,8 @@ Neopixel LEDs aka **WS2812b** addressable RGB LEDs are very fun to play with bec
 
 [tutorial video](https://youtu.be/J-FGCySNeHQ)
 
+[Documentation](https://www.hackster.io/palsayantan/neopixel-led-controller-13967e)
+
 [PCB Design Files](https://easyeda.com/Sayantan98/neopixel-controller)
 
 [Buy this Project](https://www.tindie.com/products/19245/)
