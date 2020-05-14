@@ -1,6 +1,6 @@
-# PixyMaster
-Addressable RGB LED Controller
-# An ESP8266 based driver board to control WS2812b Individually Addresable RGB LEDs #
+# PixyMaster - Addressable RGB LED Controller
+
+*An ESP8266 based driver board to control WS2812b Individually Addresable RGB LEDs*
 
 Neopixel LEDs aka **WS2812b** addressable RGB LEDs are very fun to play with because it has integrated driver IC built in which allows us to control tons of such LEDs using **single Data line** from the microcontroller. That certainly a great advantage over regular LEDs. But What more interesting is that if it can be control **over the internet**. With that in mind I made this **Neopixel LED driver board**. I have used **ESP8266** as the brain of this project so I can have wifi connectivity as well. But there is more, 
 
@@ -15,3 +15,5 @@ Neopixel LEDs aka **WS2812b** addressable RGB LEDs are very fun to play with bec
 [PCB Design Files](https://easyeda.com/Sayantan98/neopixel-controller)
 
 [Buy this Project](https://www.tindie.com/products/19245/)
+
+[Follow me on Instagram](https://www.instagram.com/electropoint4u/)
